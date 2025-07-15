@@ -47,7 +47,7 @@
 //! lenz --version
 //! ```
 //!
-//! *GitHub repo: https://github.com/mimseyedi/lenz*
+//! *GitHub repo: <https://github.com/mimseyedi/lenz>*
 
 
 // Defining modules in the root
