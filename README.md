@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mimseyedi/lenz/master/docs/lenz-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimseyedi/lenz/master/docs/lenz-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mimseyedi/lenz/master/docs/lenz-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimseyedi/lenz/master/docs/lenz-light.svg">
     <img alt="Lenz"
          src="https://raw.githubusercontent.com/mimseyedi/lenz/master/docs/lenz-light.png"
          width="50%">
