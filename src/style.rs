@@ -6,6 +6,7 @@
 
 use crate::{ find_all, };
 
+
 /// An enum, to define various colors and styles.
 pub enum ANSIStyle {
     Reset,
